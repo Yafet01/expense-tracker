@@ -1,20 +1,20 @@
 # Expense Tracker
 
-Sample solution for the [Expense Tracker](https://roadmap.sh/projects/expense-tracker) [from roadmap.sh](https://roadmap.sh/)
+Sample solution for the [Expense Tracker](https://roadmap.sh/projects/expense-tracker) from [roadmap.sh](https://roadmap.sh/)
 
 ## Features
--Users can add an expense with a description and amount.
--Users can update an expense.
--Users can delete an expense.
--Users can view all expenses.
--Users can view a summary of all expenses.
--Users can view a summary of expenses for a specific month (of current year).
--Add expense categories and allow users to filter expenses by category.
--Allow users to set a budget for each month and show a warning -when the user exceeds the budget.
--Allow users to export expenses to a CSV file.
+- Users can add an expense with a description and amount.
+- Users can update an expense.
+- Users can delete an expense.
+- Users can view all expenses.
+- Users can view a summary of all expenses.
+- Users can view a summary of expenses for a specific month (of current year).
+- Add expense categories and allow users to filter expenses by category.
+- Allow users to set a budget for each month and show a warning -when the user exceeds the budget.
+- Allow users to export expenses to a CSV file.
 
 ## Requirement
--node.js installed on your system 
+- Node.js installed on your system 
 
 ## Installation
 To get started, clone the repo;
@@ -146,4 +146,3 @@ To export your expenses to a CSV file:
 ```bash
 node expense.js export
 ```# expense-tracker
-# expense-tracker
