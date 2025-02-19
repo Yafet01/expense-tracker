@@ -64,8 +64,9 @@ node expense.js delete --id <id>
 
 ### 4.Expense Summary
 Displays a summary with the option to filter by a specific month.
+
 **Usage:**
--Total Summary:
+- Total Summary:
 ```bash
 node expense.js summary
 ```
