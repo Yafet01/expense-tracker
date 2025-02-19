@@ -34,7 +34,7 @@ node expense.js <command> [options]
 ```
 ## Commands
 ### 1.Add Expenses
--Add new expense
+- Add new expense
 **Usage:**
 ```bash
 node expense.js add --description "Description" --amount <amount> --category "Category"
@@ -46,7 +46,7 @@ node expense.js add --description "Description" --amount <amount> --category "Ca
 
 
 ### 2.List Expenses
--List all expenses.
+- List all expenses.
 **Usage:**
 ```bash
 node expense.js list
@@ -69,7 +69,7 @@ Displays a summary with the option to filter by a specific month.
 ```bash
 node expense.js summary
 ```
--Monthly Summary:
+- Monthly Summary:
 ```bash
 node expense.js summary --month <month>
 ```
