@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "description": "Lunch at restaurant",
+    "amount": 15.5,
+    "category": "Food",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 2,
+    "description": "Grocery shopping",
+    "amount": 42.3,
+    "category": "Food",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 3,
+    "description": "Bus fare",
+    "amount": 2.5,
+    "category": "Transport",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 4,
+    "description": "Monthly internet bill",
+    "amount": 55,
+    "category": "Bills",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 5,
+    "description": "Movie ticket",
+    "amount": 12,
+    "category": "Entertainment",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 6,
+    "description": "Gym membership",
+    "amount": 35,
+    "category": "Health",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 7,
+    "description": "Electricity bill",
+    "amount": 60,
+    "category": "Bills",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 8,
+    "description": "Coffee with friends",
+    "amount": 5,
+    "category": "Food",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 9,
+    "description": "New shoes",
+    "amount": 80,
+    "category": "Shopping",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 10,
+    "description": "Taxi ride",
+    "amount": 18,
+    "category": "Transport",
+    "date": "2025-02-18"
+  }
+]
